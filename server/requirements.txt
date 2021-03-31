@@ -12,7 +12,7 @@ Jinja2==2.8
 jsonpatch==1.10
 jsonpointer==1.9
 language-selector==0.1
-lxml==3.6.4
+lxml==4.6.3
 MarkupSafe==0.23
 oauthlib==1.0.3
 prettytable==0.7.2
